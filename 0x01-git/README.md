@@ -1,6 +1,8 @@
 <h1>My name is **Fagbemi Oluwaseyi** </h1>
 <h3>I'm now a ALX Student, this is my first repository as a full-stack engineer</h3>
 
+**Updated this readme for a task**
+
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 [My Portfolio](https://seyiportfolio.netlify.app/)
